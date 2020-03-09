@@ -11,7 +11,7 @@ int main() {
 
 
     // When wanting to print double quotes, use \ before quotations
-    printf("Hello \"Mr.NiceGuy\", how's it going?");
+    printf("Hello \"Mr.NiceGuy\", how's it going?\n");
 
     return 0;
 }
