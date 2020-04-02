@@ -10,5 +10,7 @@ int main() {
                                                     // %f for floating pt
                                                     // %c for char
 
+    puts(character_name); // prints a single string with end character \0 in it
+
     return 0;
 }
